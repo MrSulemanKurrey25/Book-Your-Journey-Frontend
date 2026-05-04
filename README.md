@@ -1,4 +1,4 @@
-#✈️ Book Your Journey | Frontend Project
+# ✈️ Book Your Journey | Frontend Project
 A sleek, responsive travel booking platform designed to make exploring the world effortless.
 
 #✨ Key Features
